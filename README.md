@@ -32,6 +32,3 @@ This is a large-scale project and completing all the core functionalities appare
 - Various technical skills for building a web application from scratch
 - Project management (initial design, collaborative work, testing)
 
-## Try it out!
-Open http://66.228.46.150:8080/getstart, then follow the instructions.
-
